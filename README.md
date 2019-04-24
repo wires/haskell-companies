@@ -128,6 +128,7 @@ Karamaan Group | New York, NY, USA | Finance | ?
 [StackBuilders](https://www.stackbuilders.com) | NYC, USA/Quito, Ecuador | ? | ? | ?
 [Stage N/Unison](http://unisonweb.org/) | Boston, MA, USA | ? | ? | ?
 [Standard Chartered](https://www.sc.com) | UK/Singapore | ? | ? | ?
+[Statebox](https://statebox.io) | Amsterdam, Netherlands | Verification | [https://github.com/statebox] | Yes
 [Stilo](http://stilo.com) | Ottawa, Canada | ? | ? | ?
 [SumAll](https://sumall.ai) | New York, NY, USA | Artificial Intelligence | [Reddit](https://www.reddit.com/r/haskell/comments/8ve1jr/sumall_on_java_to_haskell/) | Yes
 [Superpowers Corp](https://www.superpowerscorp.com) | Boulder, CO, USA | Software | Some cases
